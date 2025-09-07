@@ -1,7 +1,7 @@
 This is a simple C program that:
--- Opens a file
--- Reads each charachter
--- Creates a hash value for the file
+1. Opens a file
+2. Reads each charachter
+3. Creates a hash value for the file
 
 How to run:
 1. Compile and run the program
